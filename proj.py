@@ -4,7 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 2+3
 5
 >>> print('MY NAME IS HARSHA')
-MY NAME IS HARSHA
+MY NAME IS SAI HARSHA
 >>> print(2+3)
 5
 >>> 
