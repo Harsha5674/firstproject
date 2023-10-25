@@ -1,3 +1,3 @@
 
 #display the output
-print("pythin file")
+print("python file")
